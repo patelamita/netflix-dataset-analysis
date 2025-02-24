@@ -21,6 +21,7 @@ The dataset contains Netflix titles with the following information:
 - Normalized date
 
 ## Project Structure
+```
 movies_tvshows_analysis/
 │
 ├── notebooks/
@@ -31,6 +32,7 @@ movies_tvshows_analysis/
 ├── README.md
 │
 └── requirements.txt
+```
 
 ## Requirements
 - Python 3.x
